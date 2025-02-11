@@ -8,10 +8,6 @@ class Person {
     return this.n;
   }
 
-  get age() {
-    return this.a;
-  }
-
   set age(value) {
     this.a = value;
   }
